@@ -4,7 +4,7 @@
  * @method console.log() and
  * @method console.table() to show the result into de console browser.
  *
- * * Also, shows how to create an object and define object properties.
+ * * Also, shows how to create an object and define the object properties.
  */
 
 // Defining and Loading variables values from user using prompt()

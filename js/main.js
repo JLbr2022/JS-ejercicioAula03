@@ -3,13 +3,13 @@
  * @method prompt() to get a user input,
  * @method console.log() and
  * @method console.table() to show the result into de console browser.
- *
+ * @method Number() to convert age string variable to a number variable.
  * * Also, shows how to create an object and define the object properties.
  */
 
 // Defining and Loading variables values from user using prompt()
 let nname = prompt("Enter a name: ", "José");
-let nage = prompt("Enter your age: ", "54");
+let nage = Number(prompt("Enter your age: ", "54")); // Number() converts string to number
 
 // Defining object user
 var user = {
